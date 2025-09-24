@@ -1,13 +1,5 @@
 # Agendador-Bravo
 
-
-Aqui vai um **README.md** prontinho pro seu repositório 👇
-(Copie e cole no arquivo `README.md`.)
-
----
-
-# Agendador-Bravo
-
 Agendador gráfico para Windows (Tkinter) que executa **scripts e processos** em horários fixos ou em **intervalos**, com **histórico visual**, **notificações por e-mail** e **WhatsApp (QR via WebJS)**, além de **autoatualização** opcional.
 
 > Testado com **Python 3.13** no Windows 10/11.
@@ -226,8 +218,4 @@ Exemplo: © 2025 Seu Nome — liberado sob **MIT**.
 * Diálogo “Tarefa” com editor de horários
 * “Configurações” com SMTP/WhatsApp
 * Gráfico de histórico
-
----
-
-**Pronto!** Se quiser, me diga o nome do repositório e a licença que você prefere que eu já coloco os badges e a seção de licença certinha.
 
